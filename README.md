@@ -1,42 +1,60 @@
-# Hey, I'm Shubham 👋
+# Hey, I'm Shubham
 
-**Product Manager at Walmart Global Tech** — building data products at the intersection of customer identity, advertising, and privacy.
+**Senior Product Manager at Walmart Global Tech** — building data products at the intersection of customer identity, advertising, and privacy. I write the spec AND the code.
 
-Duke MEM '22 · Ex-KPMG · Kashmiri Pandit from Jammu · Based in Bentonville, AR
-
----
-
-### What I'm working on
-
-- 🛒 **Walmart Global Tech** — Third-party data products powering retail media, identity resolution, and audience targeting at enterprise scale
-- 🎙 **[Sundays with Safaya](https://www.youtube.com/@sundayswithsafaya)** — 35+ YouTube episodes helping people crack interviews and navigate tech careers
-- ✍️ **LinkedIn** — Running a series on Customer Data Identity × Advertising × Privacy ([follow along](https://www.linkedin.com/in/shubham-safaya/))
-- 🎓 **Career Coaching** — 173+ free sessions, 4.9★ rating, Top 1% on [Topmate](https://topmate.io/sundays_with_safaya)
+Duke MEM '22 | Ex-KPMG | Based in Bentonville, AR
 
 ---
 
-### Impact at a glance
+### What I Build
 
-| Metric | Value |
-|--------|-------|
-| Revenue impact | $15M+ |
-| Cost savings (vendor negotiations) | $5.8M |
-| GMV traceability | $3.5B |
-| Projected 5-year business value | $350M |
-| People coached | 173+ |
-| LinkedIn followers | 9,400+ |
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [identity-resolution-engine](https://github.com/Shubham-Safaya/identity-resolution-engine) | Open-source deterministic + probabilistic identity matching with graph clustering | Python, NetworkX |
+| [accessibility-alarm](https://github.com/Shubham-Safaya/accessibility-alarm) | Multi-sensory alarm PWA for visually/hearing impaired users | JavaScript, Web APIs, PWA |
+| [productivity-toolkit](https://github.com/Shubham-Safaya/productivity-toolkit) | 7 Claude API-powered CLI tools for career development | Python, Anthropic SDK |
+| [competitive-programming](https://github.com/Shubham-Safaya/competitive-programming) | Graph algorithms, string matching, DP — with data engineering applications | Python, SQL |
+| [daily-engineering-log](https://github.com/Shubham-Safaya/daily-engineering-log) | Automated daily log tracking privacy, identity, and adtech developments | Python, GitHub Actions |
 
 ---
 
-### Tech & tools
+### Domain Expertise
 
-`BigQuery` `GCP` `SQL` `Python` `Power BI` `Tableau` `Looker` `Jira` `Confluence` `Figma` `Miro`
+`Identity Resolution` `Customer Data Platforms` `Retail Media` `Privacy & Clean Rooms` `Advertising Technology` `Data Platforms`
+
+---
+
+### By the Numbers
+
+| What | Scale |
+|------|-------|
+| Identity records processed | 22M+ |
+| Commercial identity graph | 32M+ records |
+| Incremental ad revenue driven | $15M+ |
+| Cost savings delivered | $5.8M |
+| GMV traceability established | $3.5B |
+| People coached (4.9 rating) | 173+ |
+
+---
+
+### Tech & Tools
+
+`Python` `SQL` `BigQuery` `GCP` `FastAPI` `NetworkX` `Playwright` `JavaScript` `Power BI` `Tableau` `Looker`
+
+---
+
+### Writing & Teaching
+
+- [Blog](https://shubhamsafaya.wordpress.com) — Technical deep-dives on identity, privacy, and data platforms
+- [YouTube](https://www.youtube.com/@sundayswithsafaya) — 35+ episodes on interview prep and career navigation
+- [Stack Overflow](https://stackoverflow.com/users/9628937/shubham-safaya) — BigQuery, Python, privacy
+- [LinkedIn](https://www.linkedin.com/in/shubham-safaya/) — Series on Customer Data Identity x Advertising x Privacy (9,400+ followers)
 
 ---
 
 ### Certifications
 
-CSPO (Scrum Alliance) · LSSGB (IMC Institute) · Enterprise Design Thinking (IBM) · ISO 27001 Lead Auditor (TUV SUD) · AWS Cloud Practitioner · Power BI · Data Science
+CSPO (Scrum Alliance) | LSSGB (IMC Institute) | Enterprise Design Thinking (IBM) | ISO 27001 Lead Auditor | AWS Cloud Practitioner
 
 ---
 
@@ -45,6 +63,5 @@ CSPO (Scrum Alliance) · LSSGB (IMC Institute) · Enterprise Design Thinking (IB
 [![Portfolio](https://img.shields.io/badge/Portfolio-shubham--safaya.github.io-c9a96e?style=flat-square)](https://shubham-safaya.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9,400+_followers-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-safaya/)
 [![YouTube](https://img.shields.io/badge/YouTube-Sundays_with_Safaya-FF0033?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@sundayswithsafaya)
-[![Instagram](https://img.shields.io/badge/Instagram-@sundays__with__safaya-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sundays_with_safaya/)
 [![Topmate](https://img.shields.io/badge/Topmate-Book_a_Session-9C27B0?style=flat-square)](https://topmate.io/sundays_with_safaya)
 [![Email](https://img.shields.io/badge/Email-safayashubham@gmail.com-c9a96e?style=flat-square&logo=gmail&logoColor=white)](mailto:safayashubham@gmail.com)
