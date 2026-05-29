@@ -15,6 +15,7 @@ Duke MEM '22 | Ex-KPMG | Based in Bentonville, AR
 | [productivity-toolkit](https://github.com/Shubham-Safaya/productivity-toolkit) | 7 Claude API-powered CLI tools for career development | Python, Anthropic SDK |
 | [data-quality-monitor](https://github.com/Shubham-Safaya/data-quality-monitor) | Zero-dependency data validation library — checks, suites, profiling | Python |
 | [competitive-programming](https://github.com/Shubham-Safaya/competitive-programming) | 18 solutions: graphs, trees, DP, sorting, strings, SQL | Python, SQL |
+| [job-search-dashboard](https://github.com/Shubham-Safaya/job-search-dashboard) | [Live analytics dashboard](https://shubham-safaya.github.io/job-search-dashboard/) — US heatmap, charts, real-time pipeline metrics | Chart.js, Leaflet.js |
 | [daily-engineering-log](https://github.com/Shubham-Safaya/daily-engineering-log) | Automated daily log tracking privacy, identity, and adtech developments | Python, GitHub Actions |
 
 ---
