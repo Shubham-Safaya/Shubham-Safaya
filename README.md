@@ -13,7 +13,8 @@ Duke MEM '22 | Ex-KPMG | Based in Bentonville, AR
 | [identity-resolution-engine](https://github.com/Shubham-Safaya/identity-resolution-engine) | Open-source deterministic + probabilistic identity matching with graph clustering | Python, NetworkX |
 | [accessibility-alarm](https://github.com/Shubham-Safaya/accessibility-alarm) | Multi-sensory alarm PWA for visually/hearing impaired users | JavaScript, Web APIs, PWA |
 | [productivity-toolkit](https://github.com/Shubham-Safaya/productivity-toolkit) | 7 Claude API-powered CLI tools for career development | Python, Anthropic SDK |
-| [competitive-programming](https://github.com/Shubham-Safaya/competitive-programming) | Graph algorithms, string matching, DP — with data engineering applications | Python, SQL |
+| [data-quality-monitor](https://github.com/Shubham-Safaya/data-quality-monitor) | Zero-dependency data validation library — checks, suites, profiling | Python |
+| [competitive-programming](https://github.com/Shubham-Safaya/competitive-programming) | 18 solutions: graphs, trees, DP, sorting, strings, SQL | Python, SQL |
 | [daily-engineering-log](https://github.com/Shubham-Safaya/daily-engineering-log) | Automated daily log tracking privacy, identity, and adtech developments | Python, GitHub Actions |
 
 ---
