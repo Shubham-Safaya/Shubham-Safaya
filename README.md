@@ -56,9 +56,9 @@ Duke MEM '22 | Ex-KPMG | Based in Bentonville, AR
 
 ### Writing & Teaching
 
-- [Blog](https://shubhamsafaya.wordpress.com) — Technical deep-dives on identity, privacy, and data platforms
+- [Medium](https://medium.com/@safayashubham) — *The Identity Layer*: a weekly essay series becoming a book, on identity, advertising, and privacy
+- [US Consumer Pulse](https://shubham-safaya.github.io/us-consumer-pulse/) — daily-refresh dashboard of the American shopper (free public-domain data)
 - [YouTube](https://www.youtube.com/@sundayswithsafaya) — 35+ episodes on interview prep and career navigation
-- [Stack Overflow](https://stackoverflow.com/users/9628937/shubham-safaya) — BigQuery, Python, privacy
 - [LinkedIn](https://www.linkedin.com/in/shubham-safaya/) — Series on Customer Data Identity x Advertising x Privacy (9,400+ followers)
 
 ---
